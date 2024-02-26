@@ -4,7 +4,9 @@
 ## Lee Juhyup
 ## 2020년부터 게임서버 및 백엔드 관련 개발중
 ## 현재는 NX3 게임서버 개발자로 근무중
-## eastganker.com 개발자.
+## [eastganker.com] 개발자.
+
+[eastganker.com] : https://eastganker.com
 
 <div align=center>
 	
