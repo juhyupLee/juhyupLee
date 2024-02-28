@@ -1,10 +1,10 @@
 ## 안녕하세요.  👋 👋 👋
 ## 저의 기쁨은 저의 미약한 코드가 당신의 컨텐츠 및 프로젝트에 도움이 되는것입니다!.
 
-### Juhyup Lee
-### 2020년부터 게임서버 및 백엔드 관련 개발중
-### 현재는 NX3 게임서버 개발자로 근무중
-### [[eastganker.com] ](https://eastganker.com)개발자.
+* Juhyup Lee
+* 2020년부터 게임서버 및 백엔드 관련 개발중
+* 현재는 NX3 게임서버 개발자로 근무중
+* [[eastganker.com] ](https://eastganker.com)개발자.
 
 <div align=center>
 	
