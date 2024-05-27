@@ -3,7 +3,8 @@
 
 * Juhyup Lee
 * 2020년부터 게임서버 및 백엔드 관련 개발중
-* 현재는 NX3 게임서버 개발자로 근무중
+* 전) NX3 게임서버 개발자로 근무
+* 현) Mobirix 게임서버 개발자로 근무
 * Albion 동부서버 PvP 전적&통계 [[eastganker.com] ](https://eastganker.com)개발자.
 
 <div align=center>
